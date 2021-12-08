@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_restaurants.xml",
+        "source": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/src/main/res/layout/row_restaurants.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_maps.xml",
+        "source": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/src/main/res/layout/fragment_maps.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_infowindow.xml",
+        "source": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/src/main/res/layout/row_infowindow.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_ratings.xml",
+        "source": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/src/main/res/layout/dialog_ratings.xml"
+    }
+]
