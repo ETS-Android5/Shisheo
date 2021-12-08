@@ -9,6 +9,7 @@ This is my submission for **Shisheo Task**,
 - Following MVVM architecture design pattren .
 - RxJava for networking .
 - HILT for Dependency injection .
+- Jetpack compose navigation component
 
 ## Modules
 - Data Module .
