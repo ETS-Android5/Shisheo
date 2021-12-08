@@ -344,7 +344,7 @@ public final class DaggerAppClass_HiltComponents_SingletonC extends AppClass_Hil
     }
 
     @Override
-    public void injectHomeFragment(HomeFragment homeFragment) {
+    public void injectHomeFragment(HomeFragment arg0) {
     }
 
     @Override

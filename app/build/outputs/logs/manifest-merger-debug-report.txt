@@ -15,6 +15,8 @@ MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/mac/.gradle/caches/tra
 MERGED from [androidx.core:core-ktx:1.6.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/8350da2b43287a514d59aec0b155c97c/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/61409f209780d7229c6e14e17b24524f/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c384a4e93f3101ee0d1342c3c7e7a5aa/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [io.github.inflationx:calligraphy3:3.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/b5c2953b3db4c8d1e90ea062b37f65e9/jetified-calligraphy3-3.1.1/AndroidManifest.xml:2:1-13:12
+MERGED from [io.github.inflationx:viewpump:2.0.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/119aee00bcb0a5f3aab0313ea93c7806/jetified-viewpump-2.0.3/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/7d8bf56ab0de3be5baeb1941ef4cb805/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/38a063ff439ffa0c1fb26c3b287e7e1f/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/mac/.gradle/caches/transforms-2/files-2.1/4c54a2c2c4d3073fefd412bbefeb8a20/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
@@ -102,6 +104,10 @@ MERGED from [com.google.android.gms:play-services-maps:18.0.0] /Users/mac/.gradl
 		ADDED from /Users/mac/Downloads/AndroidProjects/shisheo_task/app/src/main/AndroidManifest.xml:11:22-64
 application
 ADDED from /Users/mac/Downloads/AndroidProjects/shisheo_task/app/src/main/AndroidManifest.xml:13:5-42:19
+MERGED from [io.github.inflationx:calligraphy3:3.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/b5c2953b3db4c8d1e90ea062b37f65e9/jetified-calligraphy3-3.1.1/AndroidManifest.xml:11:5-20
+MERGED from [io.github.inflationx:calligraphy3:3.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/b5c2953b3db4c8d1e90ea062b37f65e9/jetified-calligraphy3-3.1.1/AndroidManifest.xml:11:5-20
+MERGED from [io.github.inflationx:viewpump:2.0.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/119aee00bcb0a5f3aab0313ea93c7806/jetified-viewpump-2.0.3/AndroidManifest.xml:9:5-20
+MERGED from [io.github.inflationx:viewpump:2.0.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/119aee00bcb0a5f3aab0313ea93c7806/jetified-viewpump-2.0.3/AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.4.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/c66c5b31dbfbc842d25318e59bfdda53/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/c66c5b31dbfbc842d25318e59bfdda53/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/3d3d9b0fd61e11cb320bb7083c12b11a/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
@@ -186,6 +192,10 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/mac/.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/61409f209780d7229c6e14e17b24524f/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c384a4e93f3101ee0d1342c3c7e7a5aa/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/c384a4e93f3101ee0d1342c3c7e7a5aa/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [io.github.inflationx:calligraphy3:3.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/b5c2953b3db4c8d1e90ea062b37f65e9/jetified-calligraphy3-3.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.inflationx:calligraphy3:3.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/b5c2953b3db4c8d1e90ea062b37f65e9/jetified-calligraphy3-3.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.inflationx:viewpump:2.0.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/119aee00bcb0a5f3aab0313ea93c7806/jetified-viewpump-2.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.github.inflationx:viewpump:2.0.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/119aee00bcb0a5f3aab0313ea93c7806/jetified-viewpump-2.0.3/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/7d8bf56ab0de3be5baeb1941ef4cb805/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/7d8bf56ab0de3be5baeb1941ef4cb805/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/38a063ff439ffa0c1fb26c3b287e7e1f/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41

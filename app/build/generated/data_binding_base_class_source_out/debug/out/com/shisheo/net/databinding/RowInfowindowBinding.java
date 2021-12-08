@@ -29,14 +29,19 @@ public final class RowInfowindowBinding implements ViewBinding {
   public final TextView nameTxt;
 
   @NonNull
+  public final TextView offerTxt;
+
+  @NonNull
   public final ImageView postImage;
 
   private RowInfowindowBinding(@NonNull CardView rootView, @NonNull TextView descriptionTxt,
-      @NonNull CardView mainCont, @NonNull TextView nameTxt, @NonNull ImageView postImage) {
+      @NonNull CardView mainCont, @NonNull TextView nameTxt, @NonNull TextView offerTxt,
+      @NonNull ImageView postImage) {
     this.rootView = rootView;
     this.descriptionTxt = descriptionTxt;
     this.mainCont = mainCont;
     this.nameTxt = nameTxt;
+    this.offerTxt = offerTxt;
     this.postImage = postImage;
   }
 
@@ -81,6 +86,12 @@ public final class RowInfowindowBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.offer_txt;
+      TextView offerTxt = rootView.findViewById(id);
+      if (offerTxt == null) {
+        break missingId;
+      }
+
       id = R.id.post_image;
       ImageView postImage = rootView.findViewById(id);
       if (postImage == null) {
@@ -88,7 +99,7 @@ public final class RowInfowindowBinding implements ViewBinding {
       }
 
       return new RowInfowindowBinding((CardView) rootView, descriptionTxt, mainCont, nameTxt,
-          postImage);
+          offerTxt, postImage);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

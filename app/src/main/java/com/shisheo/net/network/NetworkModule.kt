@@ -18,9 +18,9 @@ import javax.inject.Singleton
 object NetworkModule {
 
     /**
-     * Provides the Post service implementation.
+     * Provides the Restaurants service implementation.
      * @param retrofit the Retrofit object used to instantiate the service
-     * @return the Post service implementation.
+     * @return the Restaurants service implementation.
      */
     @Singleton
     @Provides

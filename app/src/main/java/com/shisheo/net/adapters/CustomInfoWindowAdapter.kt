@@ -28,7 +28,7 @@ class CustomInfoWindowAdapter(val context: Context) : GoogleMap.InfoWindowAdapte
         val infoWindowData: Data? = marker.tag as Data?
         rootView.name_txt.setText(infoWindowData?.name)
         rootView.description_txt.setText(infoWindowData?.description)
-
+        rootView.offer_txt.setText(infoWindowData?.offer)
 
         Glide.with(context)
             .load(infoWindowData?.image_url)

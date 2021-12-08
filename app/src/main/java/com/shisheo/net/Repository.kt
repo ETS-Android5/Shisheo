@@ -15,11 +15,14 @@ class Repository @Inject constructor(val api: Api) {
 
     private lateinit var subscription: Disposable
 
+    /**
+     * Fetching Restaurants Data
+     */
     fun getRestaurantsResults(
         restaurantsResults: MutableLiveData<List<Data>?>,
         noResults: MutableLiveData<Int>
     ) {
-        subscription = api.getPosts()
+        subscription = api.getRestaurants()
             .subscribeOn(Schedulers.io())
             .observeOn(AndroidSchedulers.mainThread())
             .subscribe(
@@ -32,20 +35,18 @@ class Repository @Inject constructor(val api: Api) {
 
     private fun onRetrievePostListError(
         error: Throwable?,
-        noResults: MutableLiveData<Int>
-    ) {
+        noResults: MutableLiveData<Int>) {
         noResults.value = R.string.no_internet_connection
     }
 
     private fun onRetrievePostListSuccess(
         result: List<Data>?,
         restaurantsResults: MutableLiveData<List<Data>?>,
-        noResults: MutableLiveData<Int>
-    ) {
-//        restaurantsResults.value = ClickEvent(result)  // Trigger the event by setting a new Event as a new value
-        restaurantsResults.value = result  // Trigger the event by setting a new Event as a new value
+        noResults: MutableLiveData<Int>) {
+        restaurantsResults.value = result
         noResults.value = null
     }
+
 
     fun subscriptionDisposable() {
         subscription.dispose()

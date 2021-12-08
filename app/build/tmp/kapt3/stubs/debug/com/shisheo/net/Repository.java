@@ -9,6 +9,9 @@ public final class Repository {
     @org.jetbrains.annotations.NotNull()
     private final com.shisheo.net.network.Api api = null;
     
+    /**
+     * Fetching Restaurants Data
+     */
     public final void getRestaurantsResults(@org.jetbrains.annotations.NotNull()
     androidx.lifecycle.MutableLiveData<java.util.List<com.shisheo.net.models.Data>> restaurantsResults, @org.jetbrains.annotations.NotNull()
     androidx.lifecycle.MutableLiveData<java.lang.Integer> noResults) {

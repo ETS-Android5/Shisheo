@@ -14,10 +14,6 @@ import javax.inject.Inject
 @HiltViewModel
 class HomeViewModel @Inject constructor(val repository: Repository) : ViewModel() {
 
-//    private val _restaurantsResults = MutableLiveData<ClickEvent<List<Data>?>>()
-//    val restaurantsResults: LiveData<ClickEvent<List<Data>?>>
-//        get() = _restaurantsResults
-
     val postAdapter = RestaurantsAdapter()
     var restaurantsResults: MutableLiveData<List<Data>?> = MutableLiveData()
     var noResults: MutableLiveData<Int> = MutableLiveData()
@@ -47,6 +43,9 @@ class HomeViewModel @Inject constructor(val repository: Repository) : ViewModel(
         } else noResults.value = R.string.no_results
     }
 
+    /*
+    Adding Dummy Coordinates for Restaurants
+     */
     fun getCoordinatesData(): List<Data> {
         val arrayList = ArrayList<Data>()
         arrayList.add(Data(latitude = 25.192804, longitude = 55.266805))

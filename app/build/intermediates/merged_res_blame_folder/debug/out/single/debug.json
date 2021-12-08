@@ -60,6 +60,10 @@
         "source": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_place_24.xml"
     },
     {
+        "merged": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/build/intermediates/res/merged/debug/font_tajawal.ttf.flat",
+        "source": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/src/main/res/font/tajawal.ttf"
+    },
+    {
         "merged": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
@@ -234,6 +238,10 @@
     {
         "merged": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
         "source": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/build/intermediates/res/merged/debug/font_font.xml.flat",
+        "source": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/src/main/res/font/font.xml"
     },
     {
         "merged": "/Users/mac/Downloads/AndroidProjects/shisheo_task/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_search_24.png.flat",
