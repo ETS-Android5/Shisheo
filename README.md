@@ -1,4 +1,4 @@
-# SIMPLE MVVVM
+# SIMPLE MVVM
 
 ## About
 This is a demo app appling **Simple MVVM**,
