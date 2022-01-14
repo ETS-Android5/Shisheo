@@ -1,7 +1,7 @@
-# ShisheoAssigment
+# SIMPLE MVVVM
 
 ## About
-This is my submission for **Shisheo Task**,
+This is a demo app appling **Simple MVVM**,
 
 ## Features
 - Kotlin based android application .
